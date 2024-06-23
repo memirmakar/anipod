@@ -3,4 +3,5 @@ A custom designed headphone with an LCD display driven by ESP32 that utilizes an
 
 
 # to do
-make an actual installation guide and actually upload the source code lol
+- make an actual installation guide and actually upload the source code lol
+- Qt6 implementation of the Windows app and Ubuntu KDE compatibility in general
